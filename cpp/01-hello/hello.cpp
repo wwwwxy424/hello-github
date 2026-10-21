@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, GitHub!" << endl;
-    cout << "这是我的第一个作业。" << endl;
+    cout << "this is my first homework" << endl;
     return 0;
 }
