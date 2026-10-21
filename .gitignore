@@ -56,3 +56,21 @@ dkms.conf
 .vscode/
 *.user
 *.suo
+
+# ---- 小熊猫 C++ / Dev-C++ ----
+*.layout
+*.depend
+*.winmm
+*.cbp
+*.dev
+*.bak
+Makefile.win
+*.stackdump
+
+# ---- 构建目录 ----
+build/
+bin/
+obj/
+Debug/
+Release/
+cmake-build-*/
