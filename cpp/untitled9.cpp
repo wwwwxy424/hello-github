@@ -1,4 +1,4 @@
-#include <stdio.h>//单分支语句
+#include <stdio.h>//单分支语句,2个整型数
 int main()
 {
 	int a,b;
