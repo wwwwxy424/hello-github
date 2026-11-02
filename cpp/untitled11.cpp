@@ -12,7 +12,7 @@ int a,b,c;
 	}
 	else
 	{
-		max=b;
+		max=10;
 	}
 	if(c>max)
 	{
