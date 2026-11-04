@@ -20,5 +20,4 @@ int a,b,c;
 	}
 	printf("max=%d",max);
 	return 0;
-	
 }
