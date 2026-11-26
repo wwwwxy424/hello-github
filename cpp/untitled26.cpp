@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>  //斐波那契数列
 int main()
 {
 int a=1 , b=1;
