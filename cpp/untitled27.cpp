@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //水仙花数
 int main()
 {
 for(int n=100;n<1000;n++)
